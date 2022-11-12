@@ -1,6 +1,4 @@
 // CITS2002 Project 2
-// Names: Anurag Yadav, Dhwani Rahul Joshi
-// Student Numbers: ,
 
 #include  <stdio.h>
 #include  <stdlib.h>
