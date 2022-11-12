@@ -6,11 +6,6 @@ The  **goal**  of this project is to design and develop a command-line utility p
 
  Successful completion of the project will develop and enhance your understanding of advanced features of the C11 programming language, and core Linux operating system system-calls and POSIX function calls.
 
-There are two parts to the project:
-
-1. The _basic_ version requires you to develop a working program with a restricted set of features. It is possible to receive full marks for the project by only completing the _basic_ version.
-2. 🌶If you would like a greater challenge, you may like to attempt the _advanced_ version of this project. Undertaking and completing significant parts of the advanced tasks provides the opportunity to _recover_ any marks not awarded for the _basic_ version of the project.
-
 **Program invocation**
 
 Your implementation of _duplicates_ will be invoked with zero or more valid command-line options, and one directory name. With no command-line options (i.e. only a directory name is provided) _duplicates_ will simply list 4 things (with just one integer per line):
